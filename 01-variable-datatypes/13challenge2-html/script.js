@@ -1,0 +1,14 @@
+let x = Math.floor(Math.random() * 100) + 1;
+let y = Math.floor(Math.random() * 50) + 1;
+
+const sumOutput = x + y;
+const differenceOutput = x - y;
+const productOutput = x * y;
+const quotientOutput = x / y;
+const rmOutput = x % 7;
+
+console.log(`${x} + ${y} = ${sumOutput}`);
+console.log(`${x} + ${y} = ${differenceOutput}`);
+console.log(`${x} + ${y} = ${productOutput}`);
+console.log(`${x} + ${y} = ${quotientOutput}`);
+console.log(`${x} + ${y} = ${rmOutput}`);
