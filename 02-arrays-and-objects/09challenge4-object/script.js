@@ -1,18 +1,17 @@
-let x;
 const library = [
   {
-    title: "The Alchemist",
-    author: "Paulo Coelho",
+    title: "Ang Mga Kaibigan ni Aling Susan",
+    author: "Bob Ong",
     status: { own: true, reading: false, read: false },
   },
   {
-    title: "To Kill a Mockingbird",
-    author: "Harper Lee",
+    title: "ABNKKBSNPLAko?!",
+    author: "Bob Ong",
     status: { own: true, reading: false, read: false },
   },
   {
-    title: "1984",
-    author: "George Orwell",
+    title: "Stainless Longanisa",
+    author: "Bob Ong",
     status: { own: true, reading: false, read: false },
   },
 ];
